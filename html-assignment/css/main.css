@@ -3,6 +3,10 @@ body{
     font-size: 18px;
 }
 
-header, foooter {
+header, footer{
     background-color: aqua;
+}
+
+.site-title{
+    color:crimson
 }
