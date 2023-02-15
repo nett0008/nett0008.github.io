@@ -22,3 +22,7 @@ section ul{
 li:nth-child(odd){
     background: blue;
 }
+
+nav ul{
+    list-style: none;
+}
